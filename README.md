@@ -41,4 +41,4 @@ This is known as the Hamming distance, not the full Levenshtein distance.
 
 
 <span><i>Made at <a href='https://qwasar.io'>Qwasar SV -- Software Engineering School</a></i></span>
-<span><img src=https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png  width='60px' /></span>
+<span><img src=https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png  width='20px' /></span>
